@@ -1,0 +1,103 @@
+.grillatiendatecnoligica
+{
+    display: grid;
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+}
+div.rojo
+{
+    background-color: rgb(175, 74, 74);
+    text-align: center;
+    border: 7px solid violet;
+    border-radius: 15px;
+}
+div.verde
+{
+    background-color: bisque;
+    text-align: center;
+    border: 7px solid green;
+    border-radius: 15px;
+}
+h2:hover
+{
+    font-family: cursive;
+    color: brown;
+}
+div.rojo:hover
+{
+    background-color: blue;
+    border: 7px solid yellow;
+    text-align: left ;
+    border-radius: 15px;
+    
+}
+div.verde:hover
+{
+    background-color: purple;
+    text-align: center;
+    border: 7px solid pink;
+    border-radius: 15px;
+}
+p
+{
+    color: yellow;
+}
+header
+{
+    background-color: aquamarine;
+    color: red;
+    font-family: cursive;
+    padding: 10;
+    text-align: center;
+}
+footer
+{
+    background-color: aquamarine;
+    color: blue;
+    font-family: cursive;
+    padding: 2%;
+    text-align: center;
+    font-size: 100%;
+}
+.grillaimagen
+{
+    display: grid;
+    grid-template-columns: 50% 20% 20% 10%;
+}
+body
+{
+   
+    background-color: yellow;
+}
+h1
+{
+    color:black;
+}
+h2
+{
+    text-align: left;
+    color: blue;
+    font-family: cursive;
+}
+img
+{
+    image-orientation: center;
+}
+header
+{
+    text-align: center;
+    color: blue;
+    background-color: rgb(234, 31, 237);
+    font-family: cursive;
+    font-size: xx-large;
+}
+footer
+{
+    text-align: center;
+    color: yellow;
+    font-family: cursive;
+    font-size: 80%;
+}
+h2.h2
+{
+    color: green;
+}
